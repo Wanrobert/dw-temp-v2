@@ -1,0 +1,54 @@
+# Core Libraries
+protobuf>=6.0,<7.0
+click>=8.0,<8.2
+pandas~=2.2.3
+requests~=2.32.3
+sqlalchemy~=2.0.39
+pymssql~=2.3.2
+pyodbc~=5.2.0
+numpy~=2.2.3
+python-dateutil
+python-dotenv
+
+# Cloud & API Integrations
+Babel
+timezonefinder
+requests-cache
+geopy~=2.4.1
+json-repair
+unidecode
+argostranslate~=1.9.6
+mysql-connector-python
+msal~=1.31.1
+msal-extensions
+microsoftgraph-python
+msgraph-core
+azure-core
+azure-identity
+databricks-connect==17.3.*
+databricks-sdk
+
+# Excel & Data Management
+Office365-REST-Python-Client
+openpyxl~=3.1.5
+et_xmlfile
+pyarrow
+
+pytz~=2024.2
+aiohttp~=3.11.13
+json_repair~=0.39.1
+# dbt
+dbt-core~=1.10.13
+dbt-sqlserver~=1.9.0
+dbt-databricks~=1.9.0
+
+# Prefect
+prefect==3.2.14
+prefect-shell~=0.3.5
+asyncpg
+
+#Analytics
+ruptures==1.1.9
+lifelines==0.30.0
+plotly==5.24.1
+mlxtend==0.23.4
